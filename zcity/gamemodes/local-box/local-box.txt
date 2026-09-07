@@ -1,0 +1,7 @@
+"local-box"
+{
+	"base"		"base"
+	"title"		"ZCity"
+	"category"	"other"
+	"maps"		"^gm_|^gmod_|^phys_|^ttt_|^zb_|^tdm_|^zbattle_|^zcity_|^zc_|^zm|^mu_"
+	"menusystem"	"1"
